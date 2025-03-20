@@ -24,4 +24,6 @@ Required Skills: Python,Django,REST,SQL
 Job Posting Date: 1 day ago 
 More Info: https://m.timesjobs.com/job-detail/abc-tech
 
+🎥Demo Video: https://www.linkedin.com/posts/farzan-mallick-164064356_just-completed-my-real-time-web-scraper-activity-7308584745557184512-nJHr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFikIdwBcV0rkP2u9UyRczdX1r2LsYMZyCI
+
 
